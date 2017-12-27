@@ -1,0 +1,6 @@
+c:\users\somnath gadge\documents\visual studio 2015\Projects\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\Somnath Gadge\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\Somnath Gadge\Documents\Visual Studio 2015\Projects\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\Somnath Gadge\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\Somnath Gadge\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\Somnath Gadge\Documents\Visual Studio 2015\Projects\Employee\Employee\obj\Debug\Employee.pdb
